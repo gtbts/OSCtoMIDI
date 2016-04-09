@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{78C0B576-F029-0578-9CC0-229EB776BEF2}") = "OSCtoMIDI", "OSCtoMIDI.vcxproj", "{46C0F84E-17F6-01F0-167C-C4FCA9E600AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C0F84E-17F6-01F0-167C-C4FCA9E600AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46C0F84E-17F6-01F0-167C-C4FCA9E600AF}.Debug|Win32.Build.0 = Debug|Win32
+		{46C0F84E-17F6-01F0-167C-C4FCA9E600AF}.Release|Win32.ActiveCfg = Release|Win32
+		{46C0F84E-17F6-01F0-167C-C4FCA9E600AF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
