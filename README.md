@@ -1,6 +1,6 @@
 #  OSCtoMIDI plug-in
 ---
-[OSCtoMIDI](https://github.com/gtbts/OSCtoMIDI/blob/master/screenshot.png)
+![OSCtoMIDI](https://github.com/gtbts/OSCtoMIDI/blob/master/screenshot.png)
 
 ## Overview
 
