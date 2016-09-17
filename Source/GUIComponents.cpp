@@ -1,17 +1,17 @@
 /*
   ==============================================================================
 
-  This is an automatically generated GUI class created by the Introjucer!
+  This is an automatically generated GUI class created by the Projucer!
 
   Be careful when adding custom code to these files, as only the code within
   the "//[xyz]" and "//[/xyz]" sections will be retained when the file is loaded
   and re-saved.
 
-  Created with Introjucer version: 4.1.0
+  Created with Projucer version: 4.2.3
 
   ------------------------------------------------------------------------------
 
-  The Introjucer is part of the JUCE library - "Jules' Utility Class Extensions"
+  The Projucer is part of the JUCE library - "Jules' Utility Class Extensions"
   Copyright (c) 2015 - ROLI Ltd.
 
   ==============================================================================
@@ -387,9 +387,9 @@ void GUIComponents::buttonClicked (Button* buttonThatWasClicked)
 
 //==============================================================================
 #if 0
-/*  -- Introjucer information section --
+/*  -- Projucer information section --
 
-    This is where the Introjucer stores the metadata that describe this GUI layout, so
+    This is where the Projucer stores the metadata that describe this GUI layout, so
     make changes in here at your peril!
 
 BEGIN_JUCER_METADATA
@@ -434,12 +434,12 @@ BEGIN_JUCER_METADATA
           explicitFocusOrder="0" pos="56 65 191 16" bkgcol="f1e8e8e8" thumbcol="ff00cc88"
           trackcol="ffffffff" rotarysliderfill="ff00cc88" min="0" max="4095"
           int="1" style="LinearBar" textBoxPos="NoTextBox" textBoxEditable="1"
-          textBoxWidth="30" textBoxHeight="14" skewFactor="1"/>
+          textBoxWidth="30" textBoxHeight="14" skewFactor="1" needsCallback="1"/>
   <SLIDER name="CVMeter1" id="4e186ea6a4c4e631" memberName="cvMeter1" virtualName=""
           explicitFocusOrder="0" pos="56 40 191 16" bkgcol="f1e8e8e8" thumbcol="ff00cc88"
           trackcol="ffffffff" rotarysliderfill="ff00cc88" min="0" max="4095"
           int="1" style="LinearBar" textBoxPos="NoTextBox" textBoxEditable="1"
-          textBoxWidth="30" textBoxHeight="14" skewFactor="1"/>
+          textBoxWidth="30" textBoxHeight="14" skewFactor="1" needsCallback="1"/>
   <LABEL name="" id="66e31e9c49eb30d9" memberName="labelCV3" virtualName=""
          explicitFocusOrder="0" pos="5 88 40 20" textCol="ff363636" edTextCol="ff000000"
          edBkgCol="0" labelText="CV3&#10;" editableSingleClick="0" editableDoubleClick="0"
@@ -449,7 +449,7 @@ BEGIN_JUCER_METADATA
           explicitFocusOrder="0" pos="56 90 191 16" bkgcol="f1e8e8e8" thumbcol="ff00cc88"
           trackcol="ffffffff" rotarysliderfill="ff00cc88" min="0" max="4095"
           int="1" style="LinearBar" textBoxPos="NoTextBox" textBoxEditable="1"
-          textBoxWidth="30" textBoxHeight="14" skewFactor="1"/>
+          textBoxWidth="30" textBoxHeight="14" skewFactor="1" needsCallback="1"/>
   <LABEL name="" id="fcff85f2fdbe57c" memberName="labelCV4" virtualName=""
          explicitFocusOrder="0" pos="5 113 40 20" textCol="ff363636" edTextCol="ff000000"
          edBkgCol="0" labelText="CV4" editableSingleClick="0" editableDoubleClick="0"
@@ -459,7 +459,8 @@ BEGIN_JUCER_METADATA
           explicitFocusOrder="0" pos="56 115 191 16" bkgcol="f1e8e8e8"
           thumbcol="ff00cc88" trackcol="ffffffff" rotarysliderfill="ff00cc88"
           min="0" max="4095" int="1" style="LinearBar" textBoxPos="NoTextBox"
-          textBoxEditable="1" textBoxWidth="30" textBoxHeight="14" skewFactor="1"/>
+          textBoxEditable="1" textBoxWidth="30" textBoxHeight="14" skewFactor="1"
+          needsCallback="1"/>
   <LABEL name="" id="eeec341ebbffb0b3" memberName="labePort" virtualName=""
          explicitFocusOrder="0" pos="14 168 41 20" textCol="ff363636"
          edTextCol="ff000000" edBkgCol="0" labelText="Port&#10;&#10;"
